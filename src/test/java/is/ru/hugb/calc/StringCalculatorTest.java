@@ -13,7 +13,7 @@ public class StringCalculatorTest {
     @Test
     public void testOneNumber() {
         StringCalculator Calculator = new StringCalculator();
-        assertEquals(5, Calculator.add("1"));
+        assertEquals(1, Calculator.add("1"));
     }
 
     @Test
