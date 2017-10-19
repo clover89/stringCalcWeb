@@ -17,6 +17,8 @@ public class StringCalculator {
             }
             return sum;
         }
+		
+		// Returns the result
         return Integer.parseInt(input);
     }
 }
