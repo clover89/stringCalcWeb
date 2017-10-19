@@ -22,7 +22,7 @@ public class CalcWeb {
 		return 4567;
     }
 
-	//Comment
+	//Add function
     private static int add(String input) {
         StringCalculator Calculator = new StringCalculator();
         return Calculator.add(input);
