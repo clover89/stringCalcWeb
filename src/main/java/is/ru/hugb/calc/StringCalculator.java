@@ -3,6 +3,7 @@ package is.ru.hugb.calc;
 import java.util.stream.Stream;
 
 public class StringCalculator {
+	// Adds together an input of integers.
     public int add(String input) {
         int sum = 0;
         if (input.equals("")) {
